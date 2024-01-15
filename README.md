@@ -1,102 +1,5 @@
-<<<<<<< HEAD
 # Task_manager
 The MERN Stack Task Manager is a powerful and user-friendly application designed to help individuals organize and manage their tasks seamlessly. Built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application provides a comprehensive solution for task tracking and organization.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This task manager application allows users to create, manage, and organize their tasks effectively. The application provides a user-friendly interface to add, edit, and delete tasks, along with status tracking.
-
-## Features
-
-- User Authentication: Securely manage your tasks with user authentication to ensure data privacy.
-- Task Management: Create, edit, and delete tasks effortlessly to keep your to-do list up-to-date.
-- Status Tracking: Mark tasks as complete or incomplete to monitor your progress.
-- Responsive Design: Enjoy a seamless experience on various devices with our responsive and intuitive user interface.
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- Node.js
-- npm (Node Package Manager)
-- MongoDB
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/dineshgone36/task_manager.git
-2. Navigate to project directory:
-   - cd task_manager
-3. Install server dependencies:
-   - cd backend && npm install
-4. Install client dependencies:
-   - cd frontend && npm install
-
-### Usage
-
-1. start the MongoDB server
-2. Start the Nodes server
-   - cd backend && npm start
-3. Start the react.js server
-   - cd frontend && npm start
-4. Open your browser and visit http://localhost:3000.
-
-
-### Technologies
-
-# The MERN Stack Task Manager leverages the power of:
-- MongoDB: A NoSQL database for efficient and scalable data storage.
-- Express.js: A robust web application framework for building the server-side of the application.
-- React.js: A declarative and efficient JavaScript library for building user interfaces.
-- Node.js: A runtime environment for executing JavaScript code on the server side.
-
-### Contributing
-- Contributions to enhance and improve the MERN Stack Task Manager are welcome. Feel free to open issues or submit pull requests to contribute to the project's development.
-
-### License
-
-#The MyTaskManager License (MyTM License)
-
-Copyright (c) 2024 Dinesh
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-=======
-# MERN Task Manager
-
-A MERN application for basic tasks management.
 ![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
 ## Table of Contents
@@ -114,6 +17,10 @@ A MERN application for basic tasks management.
 - [Contact](#contact)
 
 ## Features
+- User Authentication: Securely manage your tasks with user authentication to ensure data privacy.
+- Task Management: Create, edit, and delete tasks effortlessly to keep your to-do list up-to-date.
+- Status Tracking: Mark tasks as complete or incomplete to monitor your progress.
+- Responsive Design: Enjoy a seamless experience on various devices with our responsive and intuitive user interface.
 
 ### User-side features
 
@@ -282,9 +189,3 @@ Inside backend folder:
   - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
   - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
   - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
-
-## Contact
-
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
->>>>>>> c8e89bf (Add files)
